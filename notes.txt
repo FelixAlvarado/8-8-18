@@ -12,3 +12,11 @@ var is function scoped and can be hoisted. declasred variable without var, let, 
 
 lel and const are not hoisted and are blocked scoped. 
 const is immutable. 
+
+Explain context in React
+
+Its a way of passing data down through the componenet tree without having to pass props down manually at every level. 
+
+What does the <Provider> component do? 
+
+It's a react componenent that allows consumers to subscribe to context changes. Accepts a value prop to be passed to consumers that are descendent s of this provider. One provider can be connected to many consumers. providers can be nested to oerrride values deeper within the tree. 
