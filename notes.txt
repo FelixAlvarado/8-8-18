@@ -5,3 +5,10 @@ If the protocal, part, and host are the same for both pages
 What is CORS? 
 
 A mechanism that uses additional HTTP headers to tell a browser to let a web app running at one origin (domain) have permission to access selected resources from a server at a  different origin. 
+
+Discuss the difference between let, const, and var. What are their respective socpings? 
+
+var is function scoped and can be hoisted. declasred variable without var, let, or const is global scoped. 
+
+lel and const are not hoisted and are blocked scoped. 
+const is immutable. 
