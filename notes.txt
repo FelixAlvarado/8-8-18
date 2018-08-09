@@ -30,3 +30,9 @@ Explain the pseudocode for merge sort
 
 Merge sort breaks the item down in half until it reaches its base case. Once thre, it sorts the individual lists and merges those orted lists together until there is the full array. 
 
+what are the advantages and disadvantages of NoSQL databases vs SQL databses? 
+
+SQL good fit for complex queries 
+NoSQL better for hierarchical data storage since data is based on key value paris. 
+SQL vertically scalable (increase performance by RAM, CPU) NoSQL horezontally scalable (add a few more servers to boost performance) 
+SQL better for heavy duty tranactional applications.
