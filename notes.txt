@@ -35,4 +35,9 @@ what are the advantages and disadvantages of NoSQL databases vs SQL databses?
 SQL good fit for complex queries 
 NoSQL better for hierarchical data storage since data is based on key value paris. 
 SQL vertically scalable (increase performance by RAM, CPU) NoSQL horezontally scalable (add a few more servers to boost performance) 
-SQL better for heavy duty tranactional applications.
+SQL better for heavy duty tranactional applications. 
+
+what happens when you enable strict moe in javascript? 
+
+Previously accepted "bad syntax" are turned into real errors. 
+ex: using undeclared variables usually turns it into a global variable. using strict would yeild an error. 
