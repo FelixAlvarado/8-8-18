@@ -41,3 +41,20 @@ what happens when you enable strict moe in javascript?
 
 Previously accepted "bad syntax" are turned into real errors. 
 ex: using undeclared variables usually turns it into a global variable. using strict would yeild an error. 
+
+how does the rest/spread operator work in JS? 
+
+...
+the rest operator gathers all remaining parameters into an array. must be at end 
+spread operator seperates array into a list. can be used on strings too.
+
+In which order does SQL execute its queries? make sure to mention SELECT, JOIN, WHERE, and aggregate functions such as GROUP BY 
+SELECT 
+FROM 
+JOIN 
+ON
+WHERE 
+GROUP BY 
+HAVING 
+ORDERBY
+LIMIT 
