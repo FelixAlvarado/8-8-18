@@ -20,3 +20,13 @@ Its a way of passing data down through the componenet tree without having to pas
 What does the <Provider> component do? 
 
 It's a react componenent that allows consumers to subscribe to context changes. Accepts a value prop to be passed to consumers that are descendent s of this provider. One provider can be connected to many consumers. providers can be nested to oerrride values deeper within the tree. 
+
+What is the runtime of merge sort? 
+
+time: nlogn 
+space: n 
+
+Explain the pseudocode for merge sort 
+
+Merge sort breaks the item down in half until it reaches its base case. Once thre, it sorts the individual lists and merges those orted lists together until there is the full array. 
+
